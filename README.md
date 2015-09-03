@@ -1,2 +1,2 @@
 # firstrepo
-first test repo
+first test repo of my new adventure in git
